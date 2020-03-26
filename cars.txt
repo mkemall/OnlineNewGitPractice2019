@@ -12,3 +12,4 @@ Maseratti
 Bentley
 Subaru Impreza
 Dodge Challenger
+Kia Sorento
