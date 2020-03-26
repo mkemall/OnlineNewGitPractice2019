@@ -1,3 +1,5 @@
 kiwi
 melon
 strawberry
+blueberry
+watermelon
