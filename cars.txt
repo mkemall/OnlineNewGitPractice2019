@@ -13,3 +13,4 @@ Bentley
 Subaru Impreza
 Dodge Challenger
 Kia Sorento
+Range Rover Velar
